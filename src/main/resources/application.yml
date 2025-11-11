@@ -1,0 +1,13 @@
+bfh:
+  user:
+    name: "Srinidhi M N"
+    regNo: "U25UV23T064066"
+    email: "srinidhimn94@gmail.com"
+  endpoints:
+    generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+    fallbackSubmit: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+
+logging:
+  level:
+    root: INFO
+    com.example.bfh: DEBUG
